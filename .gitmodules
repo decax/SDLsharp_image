@@ -1,4 +1,0 @@
-[submodule "externals/SDLsharp"]
-	path = externals/SDLsharp
-	url = https://github.com/decax/SDLsharp.git
-	branch = develop
